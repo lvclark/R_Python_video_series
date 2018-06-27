@@ -1,0 +1,6 @@
+Plain text file formats
+are great for sharing data.
+They can be read by a large
+variety of software,
+and are likely to be readable
+far into the future.
