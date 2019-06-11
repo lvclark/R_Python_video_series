@@ -6,6 +6,7 @@ These datasets go with the following videos:
 * [Exploring a data frame](https://www.youtube.com/watch?v=92AYGkVt5m8&t)
 * [Graphics with ggplot2](https://www.youtube.com/watch?v=zbnAhHsJ96k)
 * [Quick statistics](https://www.youtube.com/watch?v=QeC5aWALYQk)
+* [Linear models](https://www.youtube.com/watch?v=chfI8-KXYa8&t)
 
 The data come from:
 
