@@ -2,7 +2,7 @@
 
 These datasets go with the following videos:
 
-* [Importing data from spreadsheet software](https://youtu.be/GTuEAzmhAc4)
+* [Importing data from spreadsheet software](https://youtu.be/ZvrGI8fJmEk)
 * [Exploring a data frame](https://youtu.be/uRoDJLDiN2U)
 * [Graphics with ggplot2](https://youtu.be/1EGd02wBVDc)
 * [Quick statistics](https://youtu.be/BSk60GujalQ)
