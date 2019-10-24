@@ -2,11 +2,11 @@
 
 These datasets go with the following videos:
 
-* [Importing data from spreadsheet software](https://www.youtube.com/watch?v=hfH_M5tOtwY)
-* [Exploring a data frame](https://www.youtube.com/watch?v=92AYGkVt5m8&t)
-* [Graphics with ggplot2](https://www.youtube.com/watch?v=zbnAhHsJ96k)
-* [Quick statistics](https://www.youtube.com/watch?v=QeC5aWALYQk)
-* [Linear models](https://www.youtube.com/watch?v=chfI8-KXYa8&t)
+* [Importing data from spreadsheet software](https://youtu.be/GTuEAzmhAc4)
+* [Exploring a data frame](https://youtu.be/uRoDJLDiN2U)
+* [Graphics with ggplot2](https://youtu.be/1EGd02wBVDc)
+* [Quick statistics](https://youtu.be/BSk60GujalQ)
+* [Linear models](https://youtu.be/qGGqCj9uvj8)
 
 The data come from:
 
