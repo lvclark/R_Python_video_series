@@ -2,10 +2,10 @@
 
 This dataset goes with the following videos:
 
-[Python and R: Data import](https://www.youtube.com/watch?v=d3RN2ISkpJk)
-[Python and R: Indexing and slicing](https://www.youtube.com/watch?v=gtK84ZPApJk)
-[Python and R: Using functions](https://www.youtube.com/watch?v=29cXq4S6Dlw)
-[Python and R: Making functions](https://www.youtube.com/watch?v=s2AULcFneOU)
+* [Python and R: Data import](https://www.youtube.com/watch?v=d3RN2ISkpJk)
+* [Python and R: Indexing and slicing](https://www.youtube.com/watch?v=gtK84ZPApJk)
+* [Python and R: Using functions](https://www.youtube.com/watch?v=29cXq4S6Dlw)
+* [Python and R: Making functions](https://www.youtube.com/watch?v=s2AULcFneOU)
 
 The data come from:
 
